@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abca6903-2351-4361-9c72-ecd06737239d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/MvcMovie.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MvcMovie/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Startup.cs" afterDir="false" />
-    </list>
+    <list default="true" id="abca6903-2351-4361-9c72-ecd06737239d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <marker date="1552318812295" expanded="true" signature="6:64" ph="..." />
                 <marker date="1552318812295" expanded="true" signature="96:734" ph="{...}" />
@@ -164,12 +158,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552315716876</updated>
-      <workItem from="1552315718942" duration="2296000" />
+      <workItem from="1552315718942" duration="2477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2296000" />
+    <option name="totallyTimeSpent" value="2477000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,13 +188,13 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3290398" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3290398" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Build" weight="0.3290398" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290398" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290398" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,8 +293,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <marker date="1552318812295" expanded="true" signature="6:64" ph="..." />
             <marker date="1552318812295" expanded="true" signature="96:734" ph="{...}" />
