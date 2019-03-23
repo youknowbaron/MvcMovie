@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/baron/Desktop/RiderProjects/MvcMovie/MvcMovie/MvcMovie.csproj",
+    "projectUniqueName": "C:\\Users\\DELL\\Desktop\\dotnet\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
     "projectName": "MvcMovie",
-    "projectPath": "/home/baron/Desktop/RiderProjects/MvcMovie/MvcMovie/MvcMovie.csproj",
-    "outputPath": "/home/baron/Desktop/RiderProjects/MvcMovie/MvcMovie/obj/",
+    "projectPath": "C:\\Users\\DELL\\Desktop\\dotnet\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+    "outputPath": "C:\\Users\\DELL\\Desktop\\dotnet\\MvcMovie\\MvcMovie\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
@@ -42,6 +42,10 @@
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.2.0, )"
         }
       },
       "imports": [

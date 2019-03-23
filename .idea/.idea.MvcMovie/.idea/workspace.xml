@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abca6903-2351-4361-9c72-ecd06737239d" name="Default Changelist" comment="" />
+    <list default="true" id="abca6903-2351-4361-9c72-ecd06737239d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Migrations/20190323062258_Initial.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Migrations/20190323062258_Initial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Models/Movie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Models/MvcMovieContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Index.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Delete.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Details.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Edit.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MvcMovie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/MvcMovie.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/MvcMovie.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/bin/Debug/netcoreapp2.2/MvcMovie.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/MvcMovie.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/MvcMovie.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/MvcMovie.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/MvcMovie.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MvcMovie/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MvcMovie/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,51 +51,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <marker date="1552318812295" expanded="true" signature="6:64" ph="..." />
-                <marker date="1552318812295" expanded="true" signature="96:734" ph="{...}" />
-                <marker date="1552318812295" expanded="true" signature="149:732" ph="{...}" />
-                <marker date="1552318812295" expanded="true" signature="200:271" ph="{...}" />
-                <marker date="1552318812295" expanded="true" signature="281:472" ph="/* GET: /HelloWorld/Welcome ... */" />
-                <marker date="1552318812295" expanded="true" signature="513:576" ph="{...}" />
-                <marker date="1552318812295" expanded="true" signature="632:726" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Render</find>
+      <find>navbar</find>
+      <find>Privacy</find>
+      <find>navbar-brand</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MvcMovie/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MvcMovie/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MvcMovie/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/ac/b0508813/IHtmlHelper`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/46/89f79914/IActionResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/1d/d4211a1f/Controller.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBC57F52-BDD4-45DA-8B29-C21452AD12F4/55/2b34e891/RazorPage`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBC57F52-BDD4-45DA-8B29-C21452AD12F4/c7/a6c243d2/RazorPage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBC57F52-BDD4-45DA-8B29-C21452AD12F4/d5/b23871e6/RazorPageBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/a8/3dfde6ad/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Migrations/20190323062258_Initial.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/99/07aec647/ViewDataDictionary`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Migrations/20190323062258_Initial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/5c/0642f4e3/ViewDataDictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Models/Movie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7E799D7-AC74-4C43-87C5-17D7A92653A8/96/97f6412e/CookiePolicyOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Models/MvcMovieContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MvcMovie/Startup.cs" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/Index.cshtml" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/_ViewStart.cshtml" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Index.cshtml" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml.cs" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml" />
         <option value="$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs" />
+        <option value="$PROJECT_DIR$/MvcMovie/Models/Movie.cs" />
+        <option value="$PROJECT_DIR$/MvcMovie/Data/MvcMovieContext.cs" />
+        <option value="$PROJECT_DIR$/MvcMovie/Models/MvcMovieContext.cs" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/Movies/Details.cshtml" />
+        <option value="$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
+    <option name="y" value="25" />
     <option name="width" value="1920" />
-    <option name="height" value="1007" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -93,6 +162,19 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Migrations" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Migrations" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="20190323062258_Initial.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
@@ -106,13 +188,14 @@
               <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MvcMovie" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Movies" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,6 +205,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,11 +243,15 @@
       <option name="presentableId" value="Default" />
       <updated>1552315716876</updated>
       <workItem from="1552315718942" duration="2477000" />
+      <workItem from="1553162527906" duration="553000" />
+      <workItem from="1553312195473" duration="5004000" />
+      <workItem from="1553321732702" duration="289000" />
+      <workItem from="1553322243307" duration="3888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2477000" />
+    <option name="totallyTimeSpent" value="12211000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,36 +263,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1007" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3290398" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.3290398" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290398" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32756132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32756132" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32756132" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32756132" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32756132" />
+      <window_info anchor="bottom" id="Performance Profiler" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,27 +312,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MvcMovie/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/46/89f79914/IActionResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <marker date="1552315711133" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1552315711133" expanded="true" signature="43:227" ph="&lt;div.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MvcMovie/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -257,52 +325,436 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MvcMovie/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-          <folding>
-            <marker date="1552316767170" expanded="false" signature="6:363" ph="..." />
-            <marker date="1552316767170" expanded="true" signature="383:2130" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="410:2128" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="469:532" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="755:1208" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="828:1105" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="1396:2122" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="1443:1520" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="1537:1796" ph="{...}" />
-            <marker date="1552316767170" expanded="true" signature="1939:2110" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MvcMovie/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/1d/d4211a1f/Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/46/89f79914/IActionResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Index.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBC57F52-BDD4-45DA-8B29-C21452AD12F4/c7/a6c243d2/RazorPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <marker date="1552315721413" expanded="false" signature="6:177" ph="..." />
-            <marker date="1552315721413" expanded="true" signature="209:703" ph="{...}" />
-            <marker date="1552315721413" expanded="true" signature="256:701" ph="{...}" />
-            <marker date="1552315721413" expanded="true" signature="299:346" ph="{...}" />
-            <marker date="1552315721413" expanded="true" signature="386:433" ph="{...}" />
-            <marker date="1552315721413" expanded="true" signature="564:695" ph="{...}" />
+            <marker date="1553093658762" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1553093658762" expanded="true" signature="43:227" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Home/Privacy.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <marker date="1553093658762" expanded="true" signature="0:46" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <marker date="1553313694529" expanded="true" signature="16:3667" ph="&lt;html.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="23:883" ph="&lt;head.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="191:325" ph="&lt;environment.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="330:823" ph="&lt;environment.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="884:3659" ph="&lt;body.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="895:2117" ph="&lt;header.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="912:2103" ph="&lt;nav.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="1035:2088" ph="&lt;div.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="1172:1475" ph="&lt;button.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="1492:2069" ph="&lt;div.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="1588:2046" ph="&lt;ul.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="1648:1819" ph="&lt;li.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="1844:2020" ph="&lt;li.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="2122:2287" ph="&lt;div.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="2203:2276" ph="&lt;main.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="2293:2507" ph="&lt;footer.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="2347:2493" ph="&lt;div.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="2513:2703" ph="&lt;environment.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="2708:3536" ph="&lt;environment.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="2752:3087" ph="&lt;script.../&gt;" />
+            <marker date="1553313694529" expanded="true" signature="3096:3517" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBC57F52-BDD4-45DA-8B29-C21452AD12F4/d5/b23871e6/RazorPageBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <marker date="1553314067682" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding>
+            <marker date="1553314100389" expanded="true" signature="0:42" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/99/07aec647/ViewDataDictionary`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/5c/0642f4e3/ViewDataDictionary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <marker date="1553314496914" expanded="true" signature="118:191" ph="{...}" />
+            <marker date="1553314496914" expanded="true" signature="152:185" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MvcMovie/Controllers/HelloWorldController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="198">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
-            <marker date="1552318812295" expanded="true" signature="6:64" ph="..." />
-            <marker date="1552318812295" expanded="true" signature="96:734" ph="{...}" />
-            <marker date="1552318812295" expanded="true" signature="149:732" ph="{...}" />
-            <marker date="1552318812295" expanded="true" signature="200:271" ph="{...}" />
-            <marker date="1552318812295" expanded="true" signature="281:472" ph="/* GET: /HelloWorld/Welcome ... */" />
-            <marker date="1552318812295" expanded="true" signature="513:576" ph="{...}" />
-            <marker date="1552318812295" expanded="true" signature="632:726" ph="{...}" />
+            <marker date="1553314681050" expanded="false" signature="6:64" ph="..." />
+            <marker date="1553314681050" expanded="true" signature="96:474" ph="{...}" />
+            <marker date="1553314681050" expanded="true" signature="149:472" ph="{...}" />
+            <marker date="1553314681050" expanded="true" signature="207:254" ph="{...}" />
+            <marker date="1553314681050" expanded="true" signature="323:466" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/HelloWorld/Welcome.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <marker date="1553314577182" expanded="true" signature="0:39" ph="@..." />
+            <marker date="1553314577182" expanded="true" signature="59:176" ph="&lt;ul.../&gt;" />
+            <marker date="1553314577182" expanded="true" signature="68:170" ph="@..." />
+            <marker date="1553314577182" expanded="true" signature="120:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1553093658757" expanded="true" signature="40:206" ph="{...}" />
+            <marker date="1553093658757" expanded="true" signature="74:204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Models/Movie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1553316517902" expanded="false" signature="6:58" ph="..." />
+            <marker date="1553316517902" expanded="true" signature="85:364" ph="{...}" />
+            <marker date="1553316517902" expanded="true" signature="110:362" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Migrations/MvcMovieContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1553322178346" expanded="false" signature="28:254" ph="..." />
+            <marker date="1553322178346" expanded="true" signature="285:1451" ph="{...}" />
+            <marker date="1553322178346" expanded="true" signature="391:1449" ph="{...}" />
+            <marker date="1553322178346" expanded="true" signature="467:1443" ph="{...}" />
+            <marker date="1553322178346" expanded="true" signature="860:1398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Migrations/20190323062258_Initial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <marker date="1553322178345" expanded="false" signature="6:107" ph="..." />
+            <marker date="1553322178345" expanded="true" signature="138:1196" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="185:1194" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="261:1023" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="399:875" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="914:1011" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="1096:1188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7E799D7-AC74-4C43-87C5-17D7A92653A8/96/97f6412e/CookiePolicyOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Models/MvcMovieContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1553340147406" expanded="true" signature="63:295" ph="{...}" />
+            <marker date="1553340147406" expanded="true" signature="110:293" ph="{...}" />
+            <marker date="1553340147406" expanded="true" signature="218:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <marker date="1553321707953" expanded="false" signature="6:423" ph="..." />
+            <marker date="1553321707953" expanded="true" signature="443:2350" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="470:2348" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="529:592" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="815:1428" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="888:1165" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="1616:2342" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="1663:1740" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="1757:2016" ph="{...}" />
+            <marker date="1553321707953" expanded="true" signature="2159:2330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Migrations/20190323062258_Initial.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <marker date="1553322178345" expanded="false" signature="28:302" ph="..." />
+            <marker date="1553322178345" expanded="true" signature="333:1510" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="444:1508" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="526:1502" ph="{...}" />
+            <marker date="1553322178345" expanded="true" signature="919:1457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553321708025" expanded="true" signature="30:68" ph="@..." />
+            <marker date="1553321708025" expanded="true" signature="109:1518" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="131:1511" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="162:1500" ph="&lt;form.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="280:533" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="546:817" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="830:1083" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="1096:1349" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="1362:1484" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="1520:1575" ph="&lt;div.../&gt;" />
+            <marker date="1553321708025" expanded="true" signature="1577:1664" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="37" column="12" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <marker date="1553321708095" expanded="true" signature="30:66" ph="@..." />
+            <marker date="1553321708095" expanded="true" signature="105:1559" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="127:1552" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="158:1541" ph="&lt;form.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="323:576" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="589:860" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="873:1126" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="1139:1392" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="1405:1525" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="1561:1616" ph="&lt;div.../&gt;" />
+            <marker date="1553321708095" expanded="true" signature="1618:1705" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Controllers/MoviesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <marker date="1553321707954" expanded="false" signature="6:230" ph="..." />
+            <marker date="1553321707954" expanded="true" signature="262:4281" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="311:4279" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="426:478" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="551:632" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="724:1063" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="762:825" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="957:1020" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="1132:1179" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="1189:1398" ph="/* POST: Movies/Create ... */" />
+            <marker date="1553321707954" expanded="true" signature="1556:1816" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="1602:1774" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="1902:2200" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="1940:2003" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="2095:2158" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="2210:2419" ph="/* POST: Movies/Edit/5 ... */" />
+            <marker date="1553321707954" expanded="true" signature="2583:3330" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="2625:2688" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="2725:3288" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="2759:2894" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="2947:3218" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="3013:3100" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="3125:3200" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="3420:3759" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="3458:3521" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="3653:3716" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="3934:4155" ph="{...}" />
+            <marker date="1553321707954" expanded="true" signature="4197:4273" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/ac/b0508813/IHtmlHelper`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <marker date="1553341239443" expanded="true" signature="30:69" ph="@..." />
+            <marker date="1553341239443" expanded="true" signature="89:970" ph="&lt;div.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="129:963" ph="&lt;dl.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="154:246" ph="&lt;dt.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="255:344" ph="&lt;dd.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="353:451" ph="&lt;dt.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="460:555" ph="&lt;dd.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="564:656" ph="&lt;dt.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="665:754" ph="&lt;dd.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="763:855" ph="&lt;dt.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="864:953" ph="&lt;dd.../&gt;" />
+            <marker date="1553341239443" expanded="true" signature="971:1087" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBC57F52-BDD4-45DA-8B29-C21452AD12F4/55/2b34e891/RazorPage`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <marker date="1553312869831" expanded="true" signature="0:409" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1553312869831" expanded="true" signature="544:1302" ph="{...}" />
+            <marker date="1553312869831" expanded="true" signature="549:765" ph="/// Represents the properties and methods that are needed in order to render a view that uses Razor syntax. ... " />
+            <marker date="1553312869831" expanded="true" signature="819:1300" ph="{...}" />
+            <marker date="1553312869831" expanded="true" signature="828:978" ph="/// Gets the Model property of the &lt;see cref=&quot;P:Microsoft.AspNetCore.Mvc.Razor.RazorPage`1.ViewData&quot; /&gt; property. ... " />
+            <marker date="1553312869831" expanded="true" signature="1002:1146" ph="{...}" />
+            <marker date="1553312869831" expanded="true" signature="1018:1140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/a8/3dfde6ad/IEnumerable`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MvcMovie/Views/Movies/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+          <folding>
+            <marker date="1553341798564" expanded="true" signature="43:80" ph="@..." />
+            <marker date="1553341798564" expanded="true" signature="98:148" ph="&lt;p.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="149:1357" ph="&lt;table.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="175:626" ph="&lt;thead.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="191:613" ph="&lt;tr.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="208:289" ph="&lt;th.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="302:389" ph="&lt;th.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="402:483" ph="&lt;th.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="496:577" ph="&lt;th.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="631:1348" ph="&lt;tbody.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="639:1335" ph="@..." />
+            <marker date="1553341798564" expanded="true" signature="668:1335" ph="{...}" />
+            <marker date="1553341798564" expanded="true" signature="678:1333" ph="&lt;tr.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="695:775" ph="&lt;td.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="788:874" ph="&lt;td.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="887:967" ph="&lt;td.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="980:1060" ph="&lt;td.../&gt;" />
+            <marker date="1553341798564" expanded="true" signature="1073:1319" ph="&lt;td.../&gt;" />
           </folding>
         </state>
       </provider>
